@@ -11,7 +11,7 @@ function App() {
 
 
   return (
-    <>
+    <div className='w-full h-full'>
       <Navbar />
       <Home />
       <SocialIcons />
@@ -19,7 +19,7 @@ function App() {
       <Portfolio />
       <Contect />
       <Footer />
-    </>
+    </div>
   )
 }
 
