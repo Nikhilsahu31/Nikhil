@@ -1,14 +1,11 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
-
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import { FaInstagram } from 'react-icons/fa6'
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { CgMail } from 'react-icons/cg';
-
 import { Link } from 'react-scroll'
-
-function Navbar() {
+const Navbar=()=> {
     const [nav, setnav] = useState(false)
 
     const icons = [
