@@ -18,8 +18,8 @@ function Project() {
             title: "Personal portfolio",
             description: "This React application exemplifies modern front-end development practices by integrating advanced UI techniques with Tailwind CSS, leveraging scalable icons with React Icons, and enhancing typography with Google Fonts. The project highlights the power of React and its ecosystem in building sophisticated, user-friendly web applications.",
             image: personal,
-            code: "https://www.google.com",
-            demo: "https://www.google.com",
+            code: "https://nikhil-woad.vercel.app/",
+            demo: "https://github.com/Nikhilsahu31/Nikhil",
 
         },
         {
